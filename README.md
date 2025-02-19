@@ -64,6 +64,13 @@
 - 🔹 **Audio Transcription App** - Desktop app using **Rust & Next.js**
 - 🔹 **Food Ordering App** - Desktop app using **React & Next.js**
 
+<p align="center">
+  <a href="https://github.com/sydbilal/sydbilal/blob/main/bilal's resume (updated email).pdf">
+    <img src="https://img.shields.io/badge/My_Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume">
+  </a>
+</p>
+
+
 <!--
 **sydbilal/sydbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
