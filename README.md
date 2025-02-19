@@ -12,15 +12,14 @@
 
 <img src="https://github.com/sydbilal/sydbilal/blob/main/person-working-html-computer.jpg" alt="Banner of a developer sitting in front of a desk">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Syed+Bilal!;" />
-</h1>
-
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-- 🌱 I’m currently learning **[Artificcial Intelligence and Machine Learning]**
-- 💬 Ask me about **JavaScript,Python, Node.js, React...or anything [here](https://github.com/sydbilal/sydbilal/issues)**
-
+### **🌟 About Me**
+- 🔭 I’m currently working on **MERN stack applications & Next.js projects**.
+- 🌱 I’m exploring **Rust & WebGL** for high-performance web apps.
+- 💡 Passionate about **open-source, scalability, and performance optimization**.
+- 🎯 My goal is to **build innovative & impactful solutions** that make a difference.
+- ⚡ Fun fact: I **love problem-solving, automation, and experimenting with AI**.
 <br>
 
 <div align="center">
