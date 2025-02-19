@@ -59,10 +59,10 @@
 
 
 ### **🚀 My Recent Projects**
-- 🔹 [**Hotel Booking**] - Let folks Book Hotels and Stays**
-- 🔹 [**Job Portal**](#) - Integrates **Indeed & Rozee.pk APIs**
-- 🔹 [**Audio Transcription App**](#) - Desktop app using **Rust & Next.js**
-- 🔹 [**Food Ordering App**](#) - Desktop app using **React & Next.js**
+- 🔹 **Hotel Booking** - Let folks Book Hotels and Stays**
+- 🔹 **Job Portal** - Desktop app using **React & Node.js**
+- 🔹 **Audio Transcription App** - Desktop app using **Rust & Next.js**
+- 🔹 **Food Ordering App** - Desktop app using **React & Next.js**
 
 <!--
 **sydbilal/sydbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
