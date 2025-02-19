@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mustafa Nadeem! 👋</h1>
+<h1 align="center">Hi there, I'm Syed Bilal Nadeem! 👋</h1>
 <h3 align="center">🚀 Experienced Full Stack Developer | JavaScript & MERN Stack Enthusiast 🚀</h3>
 
 <p align="center">
