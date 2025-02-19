@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mustafa Nadeem! 👋</h1>
+<h3 align="center">🚀 Experienced Full Stack Developer | JavaScript & MERN Stack Enthusiast 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;JavaScript+%7C+TypeScript+%7C+Node.js;Passionate+about+Tech+%26+Innovation" alt="Typing SVG">
+</p>
 
 <div align="center"> 
   <p>Visitor count</p>
