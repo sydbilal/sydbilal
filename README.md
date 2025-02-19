@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/sydbilal/count.svg" alt="Visitor's Count" />
 </div>
 
+<img src="https://github.com/sydbilal/sydbilal/blob/main/person-working-html-computer.jpg" alt="Banner of a developer sitting in front of a desk">
+
 <!--
 **sydbilal/sydbilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
